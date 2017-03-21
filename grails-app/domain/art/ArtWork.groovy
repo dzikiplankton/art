@@ -12,7 +12,7 @@ class ArtWork {
         link nullable: true
     }
     String toString(){
-        return name + description + link
+        return name
     }
 
 
